@@ -1,0 +1,12 @@
+C:\Users\auarenas\source\repos\CRUD_MAVI_CONTACTOS\CRUD_MAVI_CONTACTOS\bin\Debug\CRUD_MAVI_CONTACTOS.exe.config
+C:\Users\auarenas\source\repos\CRUD_MAVI_CONTACTOS\CRUD_MAVI_CONTACTOS\bin\Debug\CRUD_MAVI_CONTACTOS.exe
+C:\Users\auarenas\source\repos\CRUD_MAVI_CONTACTOS\CRUD_MAVI_CONTACTOS\bin\Debug\CRUD_MAVI_CONTACTOS.pdb
+C:\Users\auarenas\source\repos\CRUD_MAVI_CONTACTOS\CRUD_MAVI_CONTACTOS\obj\Debug\CRUD_MAVI_CONTACTOS.csproj.AssemblyReference.cache
+C:\Users\auarenas\source\repos\CRUD_MAVI_CONTACTOS\CRUD_MAVI_CONTACTOS\obj\Debug\CRUD_MAVI_CONTACTOS.Properties.Resources.resources
+C:\Users\auarenas\source\repos\CRUD_MAVI_CONTACTOS\CRUD_MAVI_CONTACTOS\obj\Debug\CRUD_MAVI_CONTACTOS.csproj.GenerateResource.cache
+C:\Users\auarenas\source\repos\CRUD_MAVI_CONTACTOS\CRUD_MAVI_CONTACTOS\obj\Debug\CRUD_MAVI_CONTACTOS.csproj.CoreCompileInputs.cache
+C:\Users\auarenas\source\repos\CRUD_MAVI_CONTACTOS\CRUD_MAVI_CONTACTOS\obj\Debug\CRUD_MAVI_CONTACTOS.exe
+C:\Users\auarenas\source\repos\CRUD_MAVI_CONTACTOS\CRUD_MAVI_CONTACTOS\obj\Debug\CRUD_MAVI_CONTACTOS.pdb
+C:\Users\auarenas\source\repos\CRUD_MAVI_CONTACTOS\CRUD_MAVI_CONTACTOS\obj\Debug\CRUD_MAVI_CONTACTOS.Form1.resources
+C:\Users\auarenas\source\repos\CRUD_MAVI_CONTACTOS\CRUD_MAVI_CONTACTOS\obj\Debug\CRUD_MAVI_CONTACTOS.login.resources
+C:\Users\auarenas\source\repos\CRUD_MAVI_CONTACTOS\CRUD_MAVI_CONTACTOS\obj\Debug\CRUD_MAVI_CONTACTOS.GriedViewContactoUsuario.resources
